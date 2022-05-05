@@ -37,3 +37,9 @@ System-Versioned Temporal tablolarıyla birlikte veritabanı çalışması
 ---
 ![View](https://raw.githubusercontent.com/179-LCWaikiki-Net-Bootcamp/KutayDemirelWeek3/main/Images/ViewExample.jpg)
 
+**Constraints Örnekleri**
+---
+* Check ve Default constraint örnekleri
+
+![Constraint](https://raw.githubusercontent.com/179-LCWaikiki-Net-Bootcamp/KutayDemirelWeek3/main/Images/Constraints.jpg)
+
