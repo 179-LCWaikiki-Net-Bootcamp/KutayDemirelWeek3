@@ -32,7 +32,8 @@ System-Versioned Temporal tablolarıyla birlikte veritabanı çalışması
 
 
 ![Sp](https://raw.githubusercontent.com/179-LCWaikiki-Net-Bootcamp/KutayDemirelWeek3/main/Images/StoredProcedureExample.jpg)
-**View Örneği**
+
+~**View Örneği**
 ---
 ![View](https://raw.githubusercontent.com/179-LCWaikiki-Net-Bootcamp/KutayDemirelWeek3/main/Images/ViewExample.jpg)
 
